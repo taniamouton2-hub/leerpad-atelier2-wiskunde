@@ -27,7 +27,7 @@ Het leerpad biedt een gestructureerde leer- en ontwerpomgeving rond **16 verplic
 
 ## 🛠️ Hoe aanpassen voor jouw eigen onderwijsvak?
 
-Dit sjabloon is **100% vakoverstijgend** ontworpen. Docenten en studenten van álle onderwijsvakken (*Wiskunde, Geschiedenis, Biologie, Frans, Nederlands, Fysica, Aardrijkskunde, etc.*) kunnen dit sjabloon in 3 stappen hergebruiken:
+Docentenvan álle onderwijsvakken (*Geschiedenis, Biologie, Frans, Nederlands, Fysica, Aardrijkskunde, etc.*) kunnen dit sjabloon in 3 stappen hergebruiken:
 
 ### Stap 1: Maak een eigen kopie (Fork / Template)
 * Klik rechtsboven op GitHub op de knop **"Use this template"** (of **"Fork"**) om het project naar je eigen GitHub-account te kopiëren.
