@@ -35,7 +35,7 @@ Docentenvan álle onderwijsvakken (*Geschiedenis, Biologie, Frans, Nederlands, F
 ### Stap 2: Pas `index.html` aan voor jouw vak
 Open het bestand `index.html` in GitHub (of een teksteditor zoals VS Code / Kladblok) en gebruik **Zoeken en Vervangen (`Ctrl + H`)**:
 * **Vaknaam:** Vervang *"wiskunde"* door jouw onderwijsvak (bv. *"geschiedenis"* of *"biologie"*).
-* **Onderwijsdoelen:** Vervang de leerplannummers (bv. *06.01 t/m 06.23*) door de minimumdoelen van jouw vakgebied.
+* **Onderwijsdoelen/leerplandoelen/vakoverscrhrijdende eindtermen:** Vervang de leerplannummers (bv. *06.01 t/m 06.23*) door de minimumdoelen van jouw vakgebied.
 * **Vakvoorbeelden:** Pas de voorbeeldoefeningen en misconcepties aan naar jouw vakinhoud.
 
 ### Stap 3: Gratis online publiceren via Netlify
