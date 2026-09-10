@@ -46,4 +46,4 @@ Open het bestand `index.html` in GitHub (of een teksteditor zoals VS Code / Klad
 ---
 
 ## 📄 Licentie & Gebruik
-Dit materiaal is ontwikkeld ten behoeve van de **Educatieve Bachelor Secundair Onderwijs aan HOGENT**. Vrij te gebruiken, aan te passen en te verspreiden voor onderwijsdoeleinden onder vermelding van de auteur.
+Dit materiaal is ontwikkeld ten behoeve van de **Educatieve Bachelor Secundair Onderwijs aan HOGENT**. Vrij te gebruiken, aan te passen en te verspreiden voor onderwijsdoeleinden onder vermelding van de auteur Tania Mouton
